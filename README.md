@@ -1,4 +1,4 @@
 AppworksBusSchedule
 ===================
 
-Simple app showing weekday 9-5 bus schedule 
+Simple backend service and app using OpenText Appworks showing weekday 9-5 bus schedule 
