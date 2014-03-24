@@ -1,0 +1,17 @@
+body {
+	background: #cdcdcd;
+	color: #1d1d1d;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.profile-item {
+	border-bottom: 1px solid #999;
+	margin: .5em;
+	padding: .5em;
+}
+
+.profile-header {
+	margin: 0;
+}
